@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![rock](https://github.com/user-attachments/assets/b42e5f87-1c46-4125-91dd-6924ac996bea)
+
 
 <!--
 **ShirtFLY1/shirtfly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
